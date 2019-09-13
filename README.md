@@ -39,15 +39,15 @@ I implement two databases: MySQL and MongoDB. I prefer MySQL in the project at f
 
 ## Screenshots
 ### login/logout
-![alt text](/demo/4.png)
+![alt text](demo_pic/4.png.png)
 ### register
-![alt text](/demo/5.png)
+![alt text](demo_pic/5.png)
 ### search
-![alt text](/demo/6.png)
+![alt text](demo_pic/6.png)
 ### favorite
-![alt text](/demo/7.png)
+![alt text](demo_pic/7.png)
 ### recommendation 
-![alt text](/demo/8.png)
+![alt text](demo_pic/8.png)
 
 ## Deployment
 ### Amazon EC2 
@@ -61,5 +61,5 @@ I implement two databases: MySQL and MongoDB. I prefer MySQL in the project at f
 ## Test
 I use Apache JMeter to test the maximum QPS in Amazon EC2. The peak throughput happens between 1000 and 2000 threads, so I can test more data points between 1000 and 2000 threads. The throughput will be around 150QPS. When I used 2500 threads, I got errors, which means the memory size is my server's bottleneck.
 ### Summarized report
-![alt text](/demo/3.png)
+![alt text](/demo_pic/3.png)
 
