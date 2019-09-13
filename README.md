@@ -11,7 +11,7 @@ This is An interactive web application full stack project for users to search ev
 * Test: Apache JMeter
 
 ## Logic layer
-![alt text](JWSD/demo_pic/1.png)
+![alt text](demo_pic/1.png)
 
 ## Recommendation Algorithm(content-based)
 In this project, I recommend events based on categories that the user has favorited. By knowing the category of the item the user favorited, I recommend some events belong to this category nearby this user. 
