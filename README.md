@@ -35,7 +35,7 @@ Java servelet could handle the lists RPCs below:
 ## Database
 I implement two databases: MySQL and MongoDB. I prefer MySQL in the project at first, but if I need to scale the prject, MongoDB could be a good choice. The image below is the schema for MySQL database of this project.
 ### Schema of data in MySQL database
-![alt text](/JWSD/demo_pic/1.png)
+![alt text](demo_pic/2.png)
 
 ## Screenshots
 ### login/logout
